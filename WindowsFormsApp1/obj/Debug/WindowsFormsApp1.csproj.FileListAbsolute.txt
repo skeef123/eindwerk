@@ -1,0 +1,13 @@
+C:\Users\tomcr\source\repos\projectRobby\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\tomcr\source\repos\projectRobby\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\tomcr\source\repos\projectRobby\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\tomcr\source\repos\projectRobby\WindowsFormsApp1\bin\Debug\Data.dll
+C:\Users\tomcr\source\repos\projectRobby\WindowsFormsApp1\bin\Debug\Data.pdb
+C:\Users\tomcr\source\repos\projectRobby\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\tomcr\source\repos\projectRobby\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\tomcr\source\repos\projectRobby\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\tomcr\source\repos\projectRobby\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\tomcr\source\repos\projectRobby\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\tomcr\source\repos\projectRobby\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\tomcr\source\repos\projectRobby\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\tomcr\source\repos\projectRobby\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
